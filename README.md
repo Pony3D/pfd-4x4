@@ -68,7 +68,7 @@ El segundo comando debería mostrar `32` en una Pi 1 B+.
    sudo apt install -y python3-pil python3-numpy python3-smbus i2c-tools python3-serial python3-rpi.gpio
    ```
 
-6. Clona el repositorio (sustituye `USUARIO` por el dueño que figure en GitHub):
+6. Clona el repositorio:
 
    ```sh
    git clone https://github.com/Pony3D/pfd-4x4.git
@@ -132,3 +132,4 @@ pfd-4x4/
 ## Licencia
 
 Pendiente de elegir. Hasta que se añada una licencia, el código queda publicado sin concesión explícita de permisos de reutilización.
+
