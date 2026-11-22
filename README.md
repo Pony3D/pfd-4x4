@@ -131,5 +131,5 @@ pfd-4x4/
 
 ## Licencia
 
-Pendiente de elegir. Hasta que se añada una licencia, el código queda publicado sin concesión explícita de permisos de reutilización.
+Este proyecto se distribuye con la licencia **MIT**. Permite usar, copiar, modificar, publicar y redistribuir el código, siempre que se conserve el aviso de copyright y el texto de la licencia. Consulta [LICENSE](LICENSE) para ver sus condiciones completas.
 
